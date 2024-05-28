@@ -1,5 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
+import java.util.*;
 
 public class EmailClassifier {
 
@@ -22,6 +23,8 @@ public class EmailClassifier {
             System.out.println(entry.getKey() + ":");
             System.out.println(entry.getValue());
         }
+
+        Iterator
     }
 
     // Helper method to extract domain from email
